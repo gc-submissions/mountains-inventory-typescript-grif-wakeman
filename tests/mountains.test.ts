@@ -1,4 +1,4 @@
-import { findNameOfTallestMountain } from "../src/mountains";
+import { findNameOfTallestMountain, mountains } from "../src/mountains";
 
 describe("findNameOfTallestMountain", () => {
   test("middle mountain", () => {
