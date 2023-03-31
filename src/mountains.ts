@@ -31,5 +31,3 @@ export function findNameOfTallestMountain(arr: Mountain[]): any {
     }
     return biggest.name
 }
-
-console.log(findNameOfTallestMountain(mountains));
